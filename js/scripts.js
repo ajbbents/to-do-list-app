@@ -1,23 +1,5 @@
-// let list = $('#list');
-// list.append("<li>list something</li>");
-//
-// let li = $('<li></li>');
-// list.append(li);
-//
-// let inputValue = $('#input').val();
-// li.append(inputValue);
-//
-// li.addClass("strike");
-//
-// li.addClass("delete");
-//
-// li.on("click", function(){
-//   li.addClass("strike");
-// });
-
 function newItem(){
 
-//javascript
 //1. Adding a new item to the list of items:
    let li = $('<li></li>');
    let inputValue = $('input').val();
