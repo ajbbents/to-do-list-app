@@ -32,11 +32,9 @@ function newItem(){
  	}
  // 4. Reordering the items:
    $('#list').sortable();
-
 }
-
+/*
 // If you get stuck, you can look below for the jQuery code. However, try yourself to convert the vanilla JS code provided to jQuery first.
-  /*
 // jQuery Code
 //1. Adding a new item to the list:
 
